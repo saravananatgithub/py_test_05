@@ -15,3 +15,11 @@ def test_add():
     result = add(a,b)
 
     print(f"\nResult of Addition ({a}, {b}) = {result}")
+
+def test_add1():
+    a = 50
+    b = 10
+
+    result = add(a,b)
+
+    print(f"\nResult of Addition ({a}, {b}) = {result}")
